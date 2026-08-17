@@ -29,6 +29,6 @@ modules:
     sources:
       - type: git
         url: https://codeberg.org/snensmens/Chapterize.git
-        tag: "2026.0.2"
-        commit: b982ba9122ebfbb25b8bb738ce3f795474ff315e
+        tag: "2026.0.3"
+        commit: 61467de5800816be8cc6f30894da4c5e3ba44780
 
