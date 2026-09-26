@@ -9,6 +9,7 @@ finish-args:
   - --socket=fallback-x11
   - --socket=wayland
   - --device=dri
+
 modules:
   - modules/python-ffmpeg.yml
   - name: chapterize
@@ -17,6 +18,6 @@ modules:
     sources:
       - type: git
         url: https://codeberg.org/snensmens/Chapterize.git
-        tag: "2026.0.4"
-        commit: ab5983c82d0e685ea47cc1413a8502aadc44e9e4
+        tag: "2026.0.5"
+        commit: 1fc03aefd4c7b189256cb5a394ea60673e3bbc4b
 
